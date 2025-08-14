@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import "./styles.css"; // Assuming you have a styles.css for auth layout
 
 const Template = () => {
-  const [userInput, setUserInput] = useState();
+  const [userInput, setUserInput] = useState("");
   return (
     <>
       <input
