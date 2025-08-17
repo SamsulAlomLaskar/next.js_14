@@ -1,0 +1,7 @@
+import React from "react";
+
+const Folder2 = () => {
+  return <h1>Folder2 Page</h1>;
+};
+
+export default Folder2;
